@@ -1,4 +1,4 @@
-# Tarun Person Collection
+# Tarun Research Lab
 
 ## Matter-Originated Spacetime Gradient Model (MOSGM)
 
