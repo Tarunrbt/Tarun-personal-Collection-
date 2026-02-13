@@ -22,14 +22,11 @@ At r ≈ r_t, MOSGM predicts a localized non-analytic enhancement in dynamical o
 
 ## Observational Status
 
-Cluster-scale stacked analysis (15 relaxed clusters, SDSS DR17 + X-ray mass calibration):
+## Current Status
 
-• Detection significance (no EFE): 5.1σ  
-• Detection significance (with EFE): 3.9σ  
-• No equivalent feature in ΛCDM mock catalogs  
-• False-positive rate < 6%
+Preliminary stacked cluster analysis indicates a localized feature near the predicted transition scale.
 
-Status: Phase-1 observational validation complete.
+Further robustness checks and independent replication are ongoing.
 
 ---
 
